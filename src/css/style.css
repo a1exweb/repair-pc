@@ -521,6 +521,10 @@ a {
           align-items: center;
 }
 
+.column-3__form-mobile {
+  margin-top: 25px;
+}
+
 @media (max-width: 1700px) {
   .column-3__title {
     margin-left: 10px;
